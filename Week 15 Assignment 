@@ -1,0 +1,5 @@
+def welcomeMessage(name):
+    print (f"Welcome, {name}!")
+
+userName = input ("Enter your name: ")
+welcomeMessage (userName)
